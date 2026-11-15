@@ -1,0 +1,257 @@
+{
+ "area": {
+  "file": "area.mp3",
+  "hash": "b9dc969e45",
+  "durationMs": 17688
+ },
+ "assign": {
+  "file": "assign.mp3",
+  "hash": "23375928f2",
+  "durationMs": 17160
+ },
+ "blocked": {
+  "file": "blocked.mp3",
+  "hash": "9eb7e40b56",
+  "durationMs": 16344
+ },
+ "checklist": {
+  "file": "checklist.mp3",
+  "hash": "2164fd24f8",
+  "durationMs": 17088
+ },
+ "close": {
+  "file": "close.mp3",
+  "hash": "43a6346454",
+  "durationMs": 15312
+ },
+ "complaint": {
+  "file": "complaint.mp3",
+  "hash": "67fb5aa05a",
+  "durationMs": 12240
+ },
+ "complete": {
+  "file": "complete.mp3",
+  "hash": "f7b5e452b8",
+  "durationMs": 38424
+ },
+ "dash": {
+  "file": "dash.mp3",
+  "hash": "f88a5947d4",
+  "durationMs": 14016
+ },
+ "done": {
+  "file": "done.mp3",
+  "hash": "d480a3c021",
+  "durationMs": 21192
+ },
+ "drawing": {
+  "file": "drawing.mp3",
+  "hash": "ad891ddeb2",
+  "durationMs": 12000
+ },
+ "fillin": {
+  "file": "fillin.mp3",
+  "hash": "bfcaf082b0",
+  "durationMs": 11232
+ },
+ "followup": {
+  "file": "followup.mp3",
+  "hash": "023980c806",
+  "durationMs": 13032
+ },
+ "gaps": {
+  "file": "gaps.mp3",
+  "hash": "9fa54d591d",
+  "durationMs": 10152
+ },
+ "history": {
+  "file": "history.mp3",
+  "hash": "7d1d31eb60",
+  "durationMs": 13632
+ },
+ "home": {
+  "file": "home.mp3",
+  "hash": "a5133c0bc6",
+  "durationMs": 17568
+ },
+ "import": {
+  "file": "import.mp3",
+  "hash": "2c6e33ad88",
+  "durationMs": 16488
+ },
+ "issue": {
+  "file": "issue.mp3",
+  "hash": "c32973dcd2",
+  "durationMs": 17184
+ },
+ "join": {
+  "file": "join.mp3",
+  "hash": "19c38d3df8",
+  "durationMs": 20928
+ },
+ "language": {
+  "file": "language.mp3",
+  "hash": "af9518a374",
+  "durationMs": 18864
+ },
+ "leak": {
+  "file": "leak.mp3",
+  "hash": "447d36fe6b",
+  "durationMs": 17064
+ },
+ "map": {
+  "file": "map.mp3",
+  "hash": "81d547771c",
+  "durationMs": 20760
+ },
+ "memo": {
+  "file": "memo.mp3",
+  "hash": "d3f19cff9f",
+  "durationMs": 12864
+ },
+ "notify": {
+  "file": "notify.mp3",
+  "hash": "48d80df1fb",
+  "durationMs": 12480
+ },
+ "offline": {
+  "file": "offline.mp3",
+  "hash": "10f20eee05",
+  "durationMs": 31968
+ },
+ "part": {
+  "file": "part.mp3",
+  "hash": "6b6c6d4afd",
+  "durationMs": 11352
+ },
+ "pm": {
+  "file": "pm.mp3",
+  "hash": "968d47659a",
+  "durationMs": 19944
+ },
+ "postpone": {
+  "file": "postpone.mp3",
+  "hash": "6d31df1c68",
+  "durationMs": 11736
+ },
+ "received": {
+  "file": "received.mp3",
+  "hash": "f6c8a22849",
+  "durationMs": 16656
+ },
+ "reports": {
+  "file": "reports.mp3",
+  "hash": "d3154af3ce",
+  "durationMs": 13992
+ },
+ "role-admin": {
+  "file": "role-admin.mp3",
+  "hash": "9dce74ba59",
+  "durationMs": 12648
+ },
+ "role-contractor": {
+  "file": "role-contractor.mp3",
+  "hash": "49429bd9c3",
+  "durationMs": 14712
+ },
+ "role-mgmt": {
+  "file": "role-mgmt.mp3",
+  "hash": "b148b0050c",
+  "durationMs": 10896
+ },
+ "role-op": {
+  "file": "role-op.mp3",
+  "hash": "5495ea54a5",
+  "durationMs": 18600
+ },
+ "role-store": {
+  "file": "role-store.mp3",
+  "hash": "20d28dd678",
+  "durationMs": 9216
+ },
+ "role-sup": {
+  "file": "role-sup.mp3",
+  "hash": "baad241db7",
+  "durationMs": 13488
+ },
+ "role-tech": {
+  "file": "role-tech.mp3",
+  "hash": "a3c90b5441",
+  "durationMs": 19584
+ },
+ "roster": {
+  "file": "roster.mp3",
+  "hash": "81251749d9",
+  "durationMs": 16296
+ },
+ "rules": {
+  "file": "rules.mp3",
+  "hash": "50b23576af",
+  "durationMs": 17568
+ },
+ "serial": {
+  "file": "serial.mp3",
+  "hash": "c23e16037d",
+  "durationMs": 14256
+ },
+ "short": {
+  "file": "short.mp3",
+  "hash": "42be6152d9",
+  "durationMs": 20424
+ },
+ "shutdown": {
+  "file": "shutdown.mp3",
+  "hash": "f9238eaefe",
+  "durationMs": 14520
+ },
+ "signin": {
+  "file": "signin.mp3",
+  "hash": "cd374b401a",
+  "durationMs": 16728
+ },
+ "standards": {
+  "file": "standards.mp3",
+  "hash": "eb286d0f74",
+  "durationMs": 19440
+ },
+ "start": {
+  "file": "start.mp3",
+  "hash": "d36cebb6e6",
+  "durationMs": 12504
+ },
+ "submit": {
+  "file": "submit.mp3",
+  "hash": "8c606c4d9c",
+  "durationMs": 21624
+ },
+ "supervisor": {
+  "file": "supervisor.mp3",
+  "hash": "fee79fef10",
+  "durationMs": 13032
+ },
+ "tool": {
+  "file": "tool.mp3",
+  "hash": "c6124d8ebc",
+  "durationMs": 14448
+ },
+ "towo": {
+  "file": "towo.mp3",
+  "hash": "32d48ef003",
+  "durationMs": 10608
+ },
+ "users": {
+  "file": "users.mp3",
+  "hash": "33f163a830",
+  "durationMs": 15456
+ },
+ "voice": {
+  "file": "voice.mp3",
+  "hash": "a7a29b34b7",
+  "durationMs": 23064
+ },
+ "welcome": {
+  "file": "welcome.mp3",
+  "hash": "502ca279c6",
+  "durationMs": 21912
+ }
+}
